@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x565134Fd12B396A0c7F13C86484B8D9EEfa58C50",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x565134Fd12B396A0c7F13C86484B8D9EEfa58C50",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Manager",
+  "SYMBOL": "MNG",
+  "MAX_SUPPLY": 5,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/manager",
+  "SHOW_BACKGROUND": true
+}
